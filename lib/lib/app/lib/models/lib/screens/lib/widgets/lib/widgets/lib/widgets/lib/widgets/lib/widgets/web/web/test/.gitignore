@@ -1,0 +1,31 @@
+
+# Flutter and Dart
+.dart_tool/
+.packages
+.pub/
+.pub-cache/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Android generated files
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+
+# iOS generated files
+ios/Flutter/.last_build_id
+ios/Pods/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Test and coverage output
+coverage/
