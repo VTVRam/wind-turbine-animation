@@ -1,0 +1,11 @@
+
+{
+  "name": "WindMotion - Wind Turbine Animation",
+  "short_name": "WindMotion",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F3F7FA",
+  "theme_color": "#1769AA",
+  "description": "An interactive Flutter application demonstrating wind turbine rotation and renewable energy.",
+  "orientation": "portrait-primary"
+}
